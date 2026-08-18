@@ -119,5 +119,4 @@ This project is under active development as part of an ongoing internship. Core 
 
 **Ashlesha Mishra**
 B.Tech Computer Science and Engineering (Data Science)
-Pranveer Singh Institute of Technology, Kanpur
 Infosys Springboard 7.0 Internship Project
